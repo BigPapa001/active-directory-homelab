@@ -97,4 +97,25 @@ Right click on Domain Controller and click configure and enable routing and remo
 
 <img width="490" height="422" alt="image" src="https://github.com/user-attachments/assets/6211843c-31f1-461b-96ca-5e4574a558cf" />
 
+DHCP TIME
+
+<img width="772" height="551" alt="image" src="https://github.com/user-attachments/assets/e941291e-a613-4564-96cc-0d879daecd91" />
+
+Tools again > DHCP
+IP address down
+
+<img width="1050" height="583" alt="image" src="https://github.com/user-attachments/assets/ab0063f7-12f2-4800-bf98-bf86df70885c" />
+
+Right click IPV4 and new scope > name > assign > exclusions > lease time 
+
+<img width="507" height="419" alt="image" src="https://github.com/user-attachments/assets/daa65dd7-c145-4c47-b511-60d609029298" />
+<img width="509" height="414" alt="image" src="https://github.com/user-attachments/assets/44af3d81-c585-40b6-84d6-e5d210882be6" />
+
+<img width="508" height="419" alt="image" src="https://github.com/user-attachments/assets/e569cfb9-cf01-4c9b-abb1-e5de088b9819" />
+<img width="514" height="426" alt="image" src="https://github.com/user-attachments/assets/4543ab72-6149-4d5f-9304-59ae3de1ecf9" />
+
+<img width="512" height="423" alt="image" src="https://github.com/user-attachments/assets/c4e2a20a-a02d-4d73-b335-50e7345e8127" />
+
+yes i want to activate this scope
+
 
