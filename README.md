@@ -48,5 +48,13 @@ Practice basic domain administration tasks
 <img width="677" height="293" alt="Screenshot 2026-02-21 181438" src="https://github.com/user-attachments/assets/be6d04c2-d196-4f02-940b-0e49381907f4" />
 
 # Creating a Domain
+<img width="782" height="553" alt="Screenshot 2026-02-21 184314" src="https://github.com/user-attachments/assets/bd6a9eb4-7e1a-4fc3-b181-058df3d56944" />
+
+<img width="1719" height="903" alt="Screenshot 2026-02-24 164323" src="https://github.com/user-attachments/assets/a5046522-ed99-4474-a137-f90b61387cc9" />
+
+
+<img width="753" height="559" alt="Screenshot 2026-02-24 164451" src="https://github.com/user-attachments/assets/e257192c-8a2f-49a1-a3eb-6b5055fe4608" />
+
+
 
 1. 
