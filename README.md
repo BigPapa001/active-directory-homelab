@@ -84,4 +84,17 @@ You should now be able to successfuly login as your new admin account
 # Remote access Server & Network Address Translation setup
 Will allow windows client to connect to server via private virtual network
 
+Open server maager > add riles and shi > next next select server > remote access > next > enable routing > next next > install
+
+<img width="780" height="553" alt="image" src="https://github.com/user-attachments/assets/7746865b-2175-4773-98c2-cad66b0d4409" />
+
+Click on tools in the top right of server manager and click on roting and remote access
+<img width="621" height="446" alt="image" src="https://github.com/user-attachments/assets/2aa142d6-6016-4334-b847-f960207ce37d" />
+
+Right click on Domain Controller and click configure and enable routing and remote access to open wizard > select NAT and ensure you sleect internet over local network
+
+<img width="494" height="427" alt="image" src="https://github.com/user-attachments/assets/81fa926c-e6e6-4c47-b664-1eea38ec937b" />
+
+<img width="490" height="422" alt="image" src="https://github.com/user-attachments/assets/6211843c-31f1-461b-96ca-5e4574a558cf" />
+
 
