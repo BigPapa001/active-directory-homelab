@@ -58,4 +58,7 @@ Click on icon to promote domain
 Click add new forest, name domain and proceed
 <img width="753" height="559" alt="Screenshot 2026-02-24 164451" src="https://github.com/user-attachments/assets/e257192c-8a2f-49a1-a3eb-6b5055fe4608" />
 
+Give domain A recovery PW. cONTINUE THROUGH WIZARD CLICKING NEXT AND INSTALL.
+
+<img width="751" height="554" alt="Screenshot 2026-02-24 165038" src="https://github.com/user-attachments/assets/64349462-bf82-4716-994c-c2d87b19c58f" />
 
