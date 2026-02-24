@@ -118,4 +118,6 @@ Right click IPV4 and new scope > name > assign > exclusions > lease time
 
 yes i want to activate this scope
 
+Right click dhcp authosrise and refefresh ipv4 
+<img width="697" height="478" alt="image" src="https://github.com/user-attachments/assets/d151fd53-85b5-4fce-a1e1-8a91dc7d608b" />
 
