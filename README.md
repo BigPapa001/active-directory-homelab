@@ -82,6 +82,6 @@ You should now be able to successfuly login as your new admin account
 <img width="1710" height="861" alt="image" src="https://github.com/user-attachments/assets/8f1bd26a-5e17-41ad-bd0d-e0c5e8570507" />Password1
 
 # Remote access Server & Network Address Translation setup
-
+Will alllow windows client to connect to server via private virtual network
 
 
