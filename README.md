@@ -121,3 +121,11 @@ yes i want to activate this scope
 Right click dhcp authosrise and refefresh ipv4 
 <img width="697" height="478" alt="image" src="https://github.com/user-attachments/assets/d151fd53-85b5-4fce-a1e1-8a91dc7d608b" />
 
+Internet setup
+Configure this local server
+<img width="1863" height="806" alt="image" src="https://github.com/user-attachments/assets/f0a9831a-6d6d-4455-aab3-e874aa6d9a9c" />
+
+<img width="419" height="442" alt="image" src="https://github.com/user-attachments/assets/db7cf5bf-e359-4b6b-a0ea-0992c0022f85" />
+
+got a third party power shell script to create users --  Set-ExecutionPolicy Unrestricted
+<img width="1285" height="476" alt="image" src="https://github.com/user-attachments/assets/cc7bb923-b0a1-4ee5-8b83-4975e580e905" />
