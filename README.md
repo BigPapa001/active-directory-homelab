@@ -62,3 +62,15 @@ Give domain A recovery PW. cONTINUE THROUGH WIZARD CLICKING NEXT AND INSTALL.
 
 <img width="751" height="554" alt="Screenshot 2026-02-24 165038" src="https://github.com/user-attachments/assets/64349462-bf82-4716-994c-c2d87b19c58f" />
 
+Server will restart and you will see a new admin account to sign in as
+
+Open windows Active Directory Users and COmputers, right click on domain and add a new organisational unit and name it Admins 
+<img width="751" height="521" alt="image" src="https://github.com/user-attachments/assets/61f944c3-78c0-4081-8dc1-e69c01a8fc78" />
+
+On the admins unit right click abd new user and create your first admin
+
+<img width="435" height="370" alt="image" src="https://github.com/user-attachments/assets/a54df87c-2481-46db-86c6-cdc7c6dc1d40" />
+
+<img width="434" height="372" alt="image" src="https://github.com/user-attachments/assets/c54f2f4f-b460-41c3-8ef1-fa6ef70eda9a" />
+
+
