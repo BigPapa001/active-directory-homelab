@@ -73,4 +73,15 @@ On the admins unit right click abd new user and create your first admin
 
 <img width="434" height="372" alt="image" src="https://github.com/user-attachments/assets/c54f2f4f-b460-41c3-8ef1-fa6ef70eda9a" />
 
+Right click on the new user profile in the admin folder > click properties > member of > add a domian admin account and apply
+
+<img width="412" height="537" alt="image" src="https://github.com/user-attachments/assets/59ec8b5a-cea7-42d3-bebb-297358e1e544" />
+
+You should now be able to successfuly login as your new admin account
+
+<img width="1710" height="861" alt="image" src="https://github.com/user-attachments/assets/8f1bd26a-5e17-41ad-bd0d-e0c5e8570507" />Password1
+
+# Remote access Server & Network Address Translation setup
+
+
 
