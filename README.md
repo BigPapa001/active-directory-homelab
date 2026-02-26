@@ -13,11 +13,13 @@ This homelab demonstrates how to:
 
 # Server Setup
 
-1. Use Virtual Box and to create a New VM with two network adapters and selecting Windows 2019 as the OS, ensuring that you mount the required ISO file found here: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
+1. Create the Server VM
+- Use Virtual Box and to create a New VM with two network adapters
+- Select Windows 2019 as the OS 
+- Mount the required ISO file found here: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
+- Ensure you select Desktop Experience during installation
 
-2. Ensure you select the desktop experience when installing the server
-
-<img width="638" height="479" alt="Screenshot 2026-02-21 155431" src="https://github.com/user-attachments/assets/798ebb3d-daec-4e3f-897a-f54f55b9ad87" />
+<img width="583" height="234" alt="image" src="https://github.com/user-attachments/assets/1dfc727b-e543-4189-8e11-a930a55ca9b3" />
 
 
 3. Create Admin Password and login
