@@ -127,5 +127,5 @@ Configure this local server
 
 <img width="419" height="442" alt="image" src="https://github.com/user-attachments/assets/db7cf5bf-e359-4b6b-a0ea-0992c0022f85" />
 
-got a third party power shell script to create users --  Set-ExecutionPolicy Unrestricted
+Power shell ISE run as admin > got a third party power shell script to create users --  Set-ExecutionPolicy Unrestricted
 <img width="1285" height="476" alt="image" src="https://github.com/user-attachments/assets/cc7bb923-b0a1-4ee5-8b83-4975e580e905" />
