@@ -81,7 +81,7 @@ You should now be able to successfuly login as your new admin account
 
 <img width="1710" height="861" alt="image" src="https://github.com/user-attachments/assets/8f1bd26a-5e17-41ad-bd0d-e0c5e8570507" />Password1
 
-# Remote access Server & Network Address Translation setup
+# Remote access Server & NAT setup
 Will allow windows client to connect to server via private virtual network
 
 Open server maager > add riles and shi > next next select server > remote access > next > enable routing > next next > install
@@ -133,7 +133,39 @@ Power shell ISE run as admin > got a third party power shell script to create us
 New users folder created by script over 1000 users in folder
 <img width="748" height="562" alt="image" src="https://github.com/user-attachments/assets/af0b4dab-0360-4eb3-8f94-e74930658f05" />
 
-# Create Windows 10 Client ensuring we slecet internal network in vm options > mount iso file > Ensure you select windows 10 Pro on installation 
+
+# Creating Windows 10 Client
+
+ensuring we slecet internal network in vm options > mount iso file > Ensure you select windows 10 Pro on installation 
 <img width="562" height="260" alt="image" src="https://github.com/user-attachments/assets/39b08271-fa58-4f0f-a23c-fb8551b37496" />
+<img width="618" height="269" alt="image" src="https://github.com/user-attachments/assets/9193cd8e-14a9-4dd5-bfd8-23039c6b43a9" />
+
+once you've creeated an account and logged in run ipconfig to ensure default gateway is correct
+
+<img width="553" height="101" alt="image" src="https://github.com/user-attachments/assets/40a6d6b9-cbd8-4f2e-a0a3-0766c74413b8" />
+
+goto settings > about > rename this pc (advanced) > change > enter new pc name and the domian name and connect
+
+<img width="726" height="470" alt="image" src="https://github.com/user-attachments/assets/84ed700e-7a22-4e2a-a774-77c6c54679aa" />
+
+connected with admin details and restart
+
+<img width="452" height="293" alt="image" src="https://github.com/user-attachments/assets/bbb2972d-07ca-423a-9251-11926620efa9" />
+
+can sign intho client with any user in domain
+<img width="1020" height="754" alt="image" src="https://github.com/user-attachments/assets/551084b7-9d79-4cc3-8410-5e486af37d63" />
+
+#Domain Admin Testing
+
+can view address lease on domain controller
+
+<img width="840" height="330" alt="image" src="https://github.com/user-attachments/assets/2292643e-2ab7-4a11-bca1-c85f9896ed4f" />
+
+Can view active computer on Active Directory sers and comouters
+<img width="744" height="295" alt="image" src="https://github.com/user-attachments/assets/2657d56a-7550-4922-bd28-243847c8d320" />
+
+
+resetting a user account by right clicking on them as admin and clicking reset password
+<img width="756" height="515" alt="image" src="https://github.com/user-attachments/assets/b6c17136-d071-4b02-b726-dea1cd92ab34" />
 
 
