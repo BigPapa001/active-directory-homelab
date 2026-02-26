@@ -129,3 +129,11 @@ Configure this local server
 
 Power shell ISE run as admin > got a third party power shell script to create users --  Set-ExecutionPolicy Unrestricted
 <img width="1285" height="476" alt="image" src="https://github.com/user-attachments/assets/cc7bb923-b0a1-4ee5-8b83-4975e580e905" />
+
+New users folder created by script over 1000 users in folder
+<img width="748" height="562" alt="image" src="https://github.com/user-attachments/assets/af0b4dab-0360-4eb3-8f94-e74930658f05" />
+
+# Create Windows 10 Client ensuring we slecet internal network in vm options > mount iso file > Ensure you select windows 10 Pro on installation 
+<img width="562" height="260" alt="image" src="https://github.com/user-attachments/assets/39b08271-fa58-4f0f-a23c-fb8551b37496" />
+
+
