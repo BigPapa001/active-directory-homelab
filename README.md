@@ -1,20 +1,15 @@
-# active-directory-homelab
+# Active Directory Homelab (Windows Server 2019)
 Step-by-step documentation of a Windows Server 2019 Active Directory homelab built using VirtualBox.
 
 # Overview
 This homelab demonstrates how to:
 
-Install and configure Windows Server 2019
-
-Promote a server to a Domain Controller (DC)
-
-Set up Active Directory Domain Services (AD DS)
-
-Create and manage users, groups, and OUs
-
-Join a Windows client machine to the domain
-
-Practice basic domain administration tasks
+- Install and configure Windows Server 2019
+- Promote a server to a Domain Controller (DC)
+- Set up Active Directory Domain Services (AD DS)
+- Create and manage users, groups, and OUs
+- Join a Windows client machine to the domain
+- Practice basic domain administration tasks
 
 # Server Setup
 
